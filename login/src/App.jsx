@@ -1,12 +1,12 @@
-import React from 'react'
-import Surface from './Components/Surface'
+import React from "react";
+import Surface from "./Components/Surface";
 
 const App = () => {
   return (
     <div>
-      <Surface/>
+      <Surface />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
